@@ -8,7 +8,7 @@
   ],
   "host_permissions": [
     "https://*.stockbit.com/*",
-    "https://buruhihsg.netlify.app/*"
+    "https://mdwiratathya-buruhihsg4.netlify.app/*"
   ],
   "background": {
     "service_worker": "background.js"
